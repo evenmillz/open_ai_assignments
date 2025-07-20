@@ -11,7 +11,7 @@ Welcome to the official collection of AI-focused projects and assignments comple
 
 ---
 
-## 📁 Project 1: Flowers Webpage (`flowers_project/`)
+## Project 1: Flowers Webpage (`flowers_project/`)
 
 ### Description
 
