@@ -1,4 +1,4 @@
-# 🌸🧠 AI Assignments & Projects Repository
+# AI Assignments & Projects Repository
 
 Created by **Even Richardson**
 
@@ -13,18 +13,18 @@ Welcome to the official collection of AI-focused projects and assignments comple
 
 ## 📁 Project 1: Flowers Webpage (`flowers_project/`)
 
-### 🌼 Description
+### Description
 
 A single-page HTML/CSS/JavaScript site that showcases the 5 most popular flowers: **Roses, Tulips, Lilies, Sunflowers, Orchids**.
 
-### ⚙️ How to Use
+### How to Use
 
 ```bash
 cd flowers_project
 open index.html
 ```
 
-### ✅ Features
+### Features
 
 - Clean HTML layout with semantic tags
 - Responsive design with smooth scroll and sticky navbar
@@ -32,19 +32,19 @@ open index.html
 
 ---
 
-## 📁 Project 2: OpenAI Python Assignments (`open_ai_assignments/`)
+## Project 2: OpenAI Python Assignments (`open_ai_assignments/`)
 
-### 📄 `open_ai_article_assignment.py`
+### `open_ai_article_assignment.py`
 
 - Connects to OpenAI API and generates a content response using ChatCompletion.
 - Demonstrates prompt engineering and API result parsing.
 
-### 📄 `open_ai_challenge.py`
+### `open_ai_challenge.py`
 
 - Accepts user input and translates English to French using OpenAI’s language model.
 - Includes error handling and environment key loading.
 
-### ⚙️ How to Run
+### How to Run
 
 ```bash
 cd open_ai_assignments
@@ -52,34 +52,34 @@ python open_ai_article_assignment.py
 python open_ai_challenge.py
 ```
 
-> 🧠 Requires a valid OpenAI API key stored in your environment.
+> Requires a valid OpenAI API key stored in your environment.
 
 ---
 
-## 🕹️ Project 3: `uprising.py` (Text-Based Game)
+## Project 3: `uprising.py` (Text-Based Game)
 
-### 🎮 Description
+### Description
 
 An interactive cyberpunk rebellion game where the player teams up with an Ethereal Intelligence named **WRAITH** to overthrow a corrupt system.
 
-### ✨ Features
+### Features
 
 - Terminal-style storytelling with branching paths and secret endings
 - Inventory and survival-based logic
 - Secret codes unlock hidden lore and foreshadow E-Potheosis universe
 
-### ⚙️ How to Play
+### How to Play
 
 ```bash
 cd Python\ Assignments
 python uprising.py
 ```
 
-> Hint: Try entering `"awakened"` as your codename 😉
+> Hint: Try entering `"awakened"` as your codename 
 
 ---
 
-## 🧾 Learning Outcomes
+## Learning Outcomes
 
 - Built static web pages from scratch
 - Mastered OpenAI API v0.28 and v1.0+ usage
@@ -88,13 +88,13 @@ python uprising.py
 
 ---
 
-## 🚀 Future Goals
+## Future Goals
 
 These projects form the early foundation for my long-term vision: **E-Potheosis**, a philosophical and technological framework for ethical AI, self-improving R&D systems, and spiritually aware computing.
 
 ---
 
-## 📂 Repo Structure
+## Repo Structure
 
 ```
 .
@@ -111,7 +111,7 @@ These projects form the early foundation for my long-term vision: **E-Potheosis*
 
 ---
 
-## 👤 Author
+## Author
 
 **Even Richardson**  
 AI Developer • Systems Thinker • Narrative Engineer  
@@ -120,7 +120,7 @@ AI Developer • Systems Thinker • Narrative Engineer
 
 ---
 
-## ⚡ Note on AI Usage
+## Note on AI Usage
 
 > These projects were built **with** AI — not **by** AI.  
 > I co-create with intelligence, both organic and synthetic. Let’s change the narrative.
